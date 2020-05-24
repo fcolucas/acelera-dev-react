@@ -1,0 +1,14 @@
+{
+  "name": "ricky-morty",
+  "version": "1.0.0",
+  "description": "ricky and morty",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "fcolucas",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.5.3"
+  }
+}
